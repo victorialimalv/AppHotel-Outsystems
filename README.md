@@ -2,7 +2,7 @@
 
 # Descrição
 
-Este é um projeto de uma aplicação de gerenciamento de hotel desenvolvida utilizando a plataforma Reactive OutSystems. A aplicação permite aos usuários realizar check-in e check-out, além de gerenciar diferentes roles de usuário para garantir que apenas pessoas autorizadas possam realizar determinadas ações.
+Este é um projeto de uma aplicação de gerenciamento de hotel desenvolvida utilizando a plataforma Service Studio. A aplicação permite aos usuários realizar check-in e check-out, além de gerenciar diferentes roles de usuário para garantir que apenas pessoas autorizadas possam realizar determinadas ações.
 
 # Funcionalidades
 
